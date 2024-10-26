@@ -31,9 +31,10 @@ async function handleRequest(request, args) {
       </style>
     </head>
     <body>
-      <h>Hello World!</h>
+      <h1>Hello World!</h1>
       
       <p>
+      
       Together, we can learn, grow and create something amazing.</p>
     </body>
     </html>
