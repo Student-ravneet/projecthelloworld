@@ -20,7 +20,7 @@ async function handleRequest(request, args) {
           align-items: center;
           height: 100vh;
           margin: 0;
-          background-color: #f0f4f8; /* Dark blue background for better UX */
+          background-color: #f0f4f8; /* Light green background for better UX */
           font-family: Arial, sans-serif;
         }
         h1 {
