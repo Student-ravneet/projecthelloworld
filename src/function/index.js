@@ -33,7 +33,7 @@ async function handleRequest(request, args) {
     <body>
       <h1>Hello World!</h1>
       
-      <p>Together, we can learn, grow and create somethinng amazing.</p>
+      <p>Together, we can learn, grow and create something amazing.</p>
     </body>
     </html>
   `;
