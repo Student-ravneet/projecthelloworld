@@ -20,7 +20,7 @@ async function handleRequest(request, args) {
           align-items: center;
           height: 100vh;
           margin: 0;
-          background-color: #f0f4f8; /*  blue background for better UX */
+          background-color: #f0f4f8; /* blue background for better UX */
           font-family: Arial, sans-serif;
         }
         h1 {
@@ -31,9 +31,10 @@ async function handleRequest(request, args) {
       </style>
     </head>
     <body>
-      <h1>Hello World!</h1>
+      <h>Hello World!</h>
       
-      <p>Together, we can learn, grow and create something amazing.</p>
+      <p>
+      Together, we can learn, grow and create something amazing.</p>
     </body>
     </html>
   `;
